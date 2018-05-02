@@ -10,7 +10,7 @@ handler = urllib.request.HTTPCookieProcessor(cj)
 opener = urllib.request.build_opener(handler)
 urllib.request.install_opener(opener)
 postdata = {
-    'username': 'YTMartian', 'userpass': 'dongjiayidjy', 'login': 'Sign In'
+    'username': '******', 'userpass': '******', 'login': 'Sign In'
 }
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 '
